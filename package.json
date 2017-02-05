@@ -1,0 +1,19 @@
+{
+  "name": "psrsjx5",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack-dev-server --watch --inline"
+
+  },
+  "dependencies": {
+    "rxjs": "^5.1.0",
+    "whatwg-fetch": "2.0.2"
+  },
+  "devDependencies": {
+    "ts-loader": "^0.8.2",
+    "typescript": "^2.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  }
+}
